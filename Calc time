@@ -11,5 +11,4 @@ import time
 start = time.clock()
 run_function()
 end = time.clock()
-
 print (str(end-start))
