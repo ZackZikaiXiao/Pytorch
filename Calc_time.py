@@ -1,11 +1,11 @@
-In linux:
+#In linux:
 import time
 start = time.time()
 run_function()
 end = time.time()
 print('Running time: %s Seconds'%(end-start))
 
-In windows:
+#In windows:
 import time
 start = time.clock()
 run_function()
