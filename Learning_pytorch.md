@@ -1,7 +1,7 @@
 ## 1.This web is about cross entropy function:  
 [easy to understand](https://blog.csdn.net/qq_22210253/article/details/85229988)  
 
-[mathematical][https://www.cnblogs.com/marsggbo/p/10401215.html]
+[mathematical](https://www.cnblogs.com/marsggbo/p/10401215.html)
 
 ## 2.three concepts in DP:
 - iteration：表示1次迭代（也叫training step），每次迭代更新1次网络结构的参数；
